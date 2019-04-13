@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "922926592363",
+    "firebase_url": "https://cloud-printing-32fa0.firebaseio.com",
+    "project_id": "cloud-printing-32fa0",
+    "storage_bucket": "cloud-printing-32fa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922926592363:android:39a49ac8ca08bb47",
+        "android_client_info": {
+          "package_name": "com.polije.cloudprinting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922926592363-lbcfd3d56iuoqqsmqf2il9edbrts2onm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.polije.cloudprinting",
+            "certificate_hash": "2382486a73b45d63ff31c80c68458018c2246fea"
+          }
+        },
+        {
+          "client_id": "922926592363-g7q2li9a9sma1qhnibmrqmisirej9ini.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuSk-jK5jZMcAnMDpQ_Enxx2CQLeWsKjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922926592363-g7q2li9a9sma1qhnibmrqmisirej9ini.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
